@@ -1,0 +1,26 @@
+Student_ID,Name,Department,Python,Statistics,NumPy,Pandas,Data_Analysis,Attendance
+S001,Aarav Sharma,Computer Science,95,92,96,94,93,96
+S002,Meera Iyer,Data Science,91,89,92,90,88,92
+S003,Rohan Das,Information Technology,90,88,91,89,91,88
+S004,Sara Khan,Computer Science,85,82,88,84,86,90
+S005,Vikram Rao,Electronics,80,80,80,80,80,85
+S006,Ananya Gupta,Data Science,79,81,78,80,81,81
+S007,Karan Mehta,Business Analytics,75,72,78,74,76,74
+S008,Priya Nair,Information Technology,70,70,70,70,70,79
+S009,Rahul Verma,Electronics,69,71,68,70,71,68
+S010,Neha Joshi,Business Analytics,65,62,68,64,66,77
+S011,Arjun Reddy,Computer Science,60,60,60,60,60,75
+S012,Divya Menon,Data Science,62,58,60,59,60,83
+S013,Imran Ali,Electronics,55,52,58,54,56,72
+S014,Pooja Singh,Information Technology,50,50,50,50,50,80
+S015,Sanjay Patel,Business Analytics,52,48,50,49,50,71
+S016,Tanvi Kulkarni,Computer Science,45,42,48,44,46,70
+S017,Mohit Agarwal,Electronics,40,40,40,40,40,66
+S018,Ishita Bose,Information Technology,80,70,30,60,60,90
+S019,Farhan Sheikh,Business Analytics,38,40,40,41,40,62
+S020,Lakshmi Pillai,Electronics,36,35,38,37,35,58
+S021,Nikhil Chopra,Computer Science,88,92,85,90,91,94
+S022,Zoya Fernandes,Data Science,78,74,81,76,77,91
+S023,Harsh Vardhan,Information Technology,57,63,55,61,59,86
+S024,Kavya Rao,Business Analytics,100,98,96,97,94,98
+S025,Dev Malhotra,Electronics,20,0,30,45,50,45
